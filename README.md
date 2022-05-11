@@ -1,2 +1,6 @@
 # Desafio-github-DIO
-Desafio de projeto sobre Git/Github
+Repositório para o Desafio de Projeto proposto pela DIO no bootcamp da Avanade
+
+
+## Links Úteis
+[Sintaxe Básica MarkDown] (https://www.markdownguide.org)
